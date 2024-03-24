@@ -1,0 +1,7 @@
+git clone repo url
+cd repo name
+git add abc.txt
+git commit -m "1st commit"
+git push origin main
+ to pull the request create a file in github pqr.txt
+git pull origin
